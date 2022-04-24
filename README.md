@@ -11,3 +11,9 @@ We designed a Fuzzy One-Class Support Vector Machine classifier.
 • In our algorithm, the model treats points of a particular class with varying importance which greatly reduces the sensitivity to outliers compared to traditional OCSVM models.
 
 • Our model achieved great results and performed much better than scikit-learn's classical OCSVM model.
+
+### Sample Results:
+
+For Non-Linear 2D data:
+
+![alt text](https://github.com/C-anwoy/OC-SVM/blob/main/Images/Linear_OCSVM.png?raw=true)
