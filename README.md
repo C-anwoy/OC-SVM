@@ -15,5 +15,7 @@ We designed a Fuzzy One-Class Support Vector Machine classifier.
 ### Sample Results:
 
 For Non-Linear 2D data:
+![alt text](https://github.com/C-anwoy/OC-SVM/blob/main/Images/Non_linear_OCSVM.png?raw=true)
 
+For Linear data:
 ![alt text](https://github.com/C-anwoy/OC-SVM/blob/main/Images/Linear_OCSVM.png?raw=true)
